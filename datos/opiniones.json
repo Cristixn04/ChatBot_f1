@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "opiniones": [
+    {
+      "id": "e32c622a-7363-4f02-a3e7-53181108d851",
+      "fecha_utc": "2026-11-06T10:15:00+00:00",
+      "piloto_id": "p001",
+      "piloto_nombre": "Fernando Alonso",
+      "opinion_original": "Increíble cómo exprime cualquier coche; a su edad sigue teniendo un ritmo de carrera y una defensa impecables.",
+      "sentimiento": "positivo",
+      "razon": "La opinión elogia la vigencia, ritmo y capacidad defensiva al volante del piloto.",
+      "modelo": "gemini-2.5-flash",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e32c622a-7363-4f02-a3e7-53181108d852",
+      "fecha_utc": "2026-11-06T10:20:00+00:00",
+      "piloto_id": "p001",
+      "piloto_nombre": "Fernando Alonso",
+      "opinion_original": "Sus decisiones al cambiar de escudería a lo largo de su carrera han sido muy desacertadas y le costaron campeonatos.",
+      "sentimiento": "negativo",
+      "razon": "El aficionado critica duramente las elecciones de equipo del piloto señalando que perjudicaron sus títulos.",
+      "modelo": "gemini-2.5-flash",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e32c622a-7363-4f02-a3e7-53181108d853",
+      "fecha_utc": "2026-11-06T10:25:00+00:00",
+      "piloto_id": "p001",
+      "piloto_nombre": "Fernando Alonso",
+      "opinion_original": "Es un piloto español de Fórmula 1 que actualmente compite para Aston Martin tras haber ganado dos mundiales.",
+      "sentimiento": "neutro",
+      "razon": "Se limita a enunciar datos biográficos y trayectoria deportiva sin expresar juicio de valor.",
+      "modelo": "gemini-2.5-flash",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e32c622a-7363-4f02-a3e7-53181108d854",
+      "fecha_utc": "2026-11-06T10:30:00+00:00",
+      "piloto_id": "p001",
+      "piloto_nombre": "Fernando Alonso",
+      "opinion_original": "Tiene un talento descomunal para adelantar, pero a veces su actitud por la radio con los ingenieros resulta tóxica.",
+      "sentimiento": "mixto",
+      "razon": "Combina admiración por su habilidad de adelantamiento con una crítica severa a su comunicación interna.",
+      "modelo": "gemini-2.5-flash",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e32c622a-7363-4f02-a3e7-53181108d855",
+      "fecha_utc": "2026-11-06T11:00:00+00:00",
+      "piloto_id": "p002",
+      "piloto_nombre": "Lewis Hamilton",
+      "opinion_original": "Su consistencia y capacidad bajo la lluvia son legendarias, dignas de un siete veces campeón del mundo.",
+      "sentimiento": "positivo",
+      "razon": "Resalta y aplaude su maestría en condiciones climáticas adversas y su regularidad histórica.",
+      "modelo": "gemini-2.5-flash",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e32c622a-7363-4f02-a3e7-53181108d856",
+      "fecha_utc": "2026-11-06T11:05:00+00:00",
+      "piloto_id": "p002",
+      "piloto_nombre": "Lewis Hamilton",
+      "opinion_original": "Cuando el coche no es competitivo pierde la motivación muy rápido y le cuesta adaptarse a las dificultades.",
+      "sentimiento": "negativo",
+      "razon": "Cuestiona su fortaleza anímica y capacidad de adaptación cuando no dispone de un monoplaza dominante.",
+      "modelo": "gemini-2.5-flash",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e32c622a-7363-4f02-a3e7-53181108d857",
+      "fecha_utc": "2026-11-06T11:10:00+00:00",
+      "piloto_id": "p002",
+      "piloto_nombre": "Lewis Hamilton",
+      "opinion_original": "Piloto británico que ha competido con McLaren y Mercedes, acumulando más de cien victorias en grandes premios.",
+      "sentimiento": "neutro",
+      "razon": "Proporciona información estadística y cronológica de su carrera sin tintes evaluativos.",
+      "modelo": "gemini-2.5-flash",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e32c622a-7363-4f02-a3e7-53181108d858",
+      "fecha_utc": "2026-11-06T11:15:00+00:00",
+      "piloto_id": "p002",
+      "piloto_nombre": "Lewis Hamilton",
+      "opinion_original": "Es indudablemente uno de los más rápidos de la historia, aunque en varias temporadas tuvo un dominio aburrido por tener el mejor monoplaza.",
+      "sentimiento": "mixto",
+      "razon": "Reconoce su velocidad histórica pero critica la falta de competitividad provocada por la superioridad mecánica.",
+      "modelo": "gemini-2.5-flash",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e32c622a-7363-4f02-a3e7-53181108d859",
+      "fecha_utc": "2026-11-06T12:00:00+00:00",
+      "piloto_id": "p003",
+      "piloto_nombre": "Max Verstappen",
+      "opinion_original": "Su agresividad controlada y precisión vuelta tras vuelta lo convierten en una máquina casi imbatible.",
+      "sentimiento": "positivo",
+      "razon": "Valora con entusiasmo su precisión de pilotaje y efectividad en carrera.",
+      "modelo": "gemini-2.5-flash",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e32c622a-7363-4f02-a3e7-53181108d860",
+      "fecha_utc": "2026-11-06T12:05:00+00:00",
+      "piloto_id": "p003",
+      "piloto_nombre": "Max Verstappen",
+      "opinion_original": "Es demasiado impetuoso en los duelos rueda a rueda y rara vez deja espacio al rival, forzando contactos innecesarios.",
+      "sentimiento": "negativo",
+      "razon": "Critica su comportamiento agresivo y la falta de consideración en combate directo en pista.",
+      "modelo": "gemini-2.5-flash",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e32c622a-7363-4f02-a3e7-53181108d861",
+      "fecha_utc": "2026-11-06T12:10:00+00:00",
+      "piloto_id": "p003",
+      "piloto_nombre": "Max Verstappen",
+      "opinion_original": "Es el actual campeón del mundo con Red Bull Racing y debutó en la categoría con la escudería Toro Rosso.",
+      "sentimiento": "neutro",
+      "razon": "Enuncia el estatus actual del piloto y su debut en F1 de manera objetiva.",
+      "modelo": "gemini-2.5-flash",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e32c622a-7363-4f02-a3e7-53181108d862",
+      "fecha_utc": "2026-11-06T12:15:00+00:00",
+      "piloto_id": "p003",
+      "piloto_nombre": "Max Verstappen",
+      "opinion_original": "Tiene una velocidad pura impresionante, pero en ocasiones le falta madurez emocional cuando las cosas no salen como espera.",
+      "sentimiento": "mixto",
+      "razon": "Equilibra el reconocimiento de su ritmo veloz con el reproche a su temperamento y reacciones.",
+      "modelo": "gemini-2.5-flash",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e32c622a-7363-4f02-a3e7-53181108d863",
+      "fecha_utc": "2026-11-06T13:00:00+00:00",
+      "piloto_id": "p004",
+      "piloto_nombre": "Ayrton Senna",
+      "opinion_original": "Su vuelta de clasificación en Mónaco en 1988 demuestra que estaba en una dimensión mística inalcanzable para cualquier otro.",
+      "sentimiento": "positivo",
+      "razon": "Expresa profunda reverencia por su desempeño extraordinario a una vuelta en trazados urbanos.",
+      "modelo": "gemini-2.5-flash",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e32c622a-7363-4f02-a3e7-53181108d864",
+      "fecha_utc": "2026-11-06T13:05:00+00:00",
+      "piloto_id": "p004",
+      "piloto_nombre": "Ayrton Senna",
+      "opinion_original": "Su maniobra en Suzuka 1990 contra Prost fue imprudente, antideportiva y puso en peligro innecesario la seguridad de la pista.",
+      "sentimiento": "negativo",
+      "razon": "Condena éticamente un incidente deliberado de carrera calificándolo como antideportivo y peligroso.",
+      "modelo": "gemini-2.5-flash",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e32c622a-7363-4f02-a3e7-53181108d865",
+      "fecha_utc": "2026-11-06T13:10:00+00:00",
+      "piloto_id": "p004",
+      "piloto_nombre": "Ayrton Senna",
+      "opinion_original": "Piloto brasileño tricampeón mundial con McLaren-Honda considerado un ícono del automovilismo de los años 80 y 90.",
+      "sentimiento": "neutro",
+      "razon": "Describe la nacionalidad, palmarés y época histórica del corredor sin valoraciones subjetivas.",
+      "modelo": "gemini-2.5-flash",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e32c622a-7363-4f02-a3e7-53181108d866",
+      "fecha_utc": "2026-11-06T13:15:00+00:00",
+      "piloto_id": "p004",
+      "piloto_nombre": "Ayrton Senna",
+      "opinion_original": "Tenía una conexión espiritual única con el monoplaza, aunque en varias carreras su rivalidad con Prost cruzó los límites del juego limpio.",
+      "sentimiento": "mixto",
+      "razon": "Manifiesta fascinación por su talento y mística pero señala el exceso y antideportividad en su rivalidad histórica.",
+      "modelo": "gemini-2.5-flash",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "711d1f86-21b6-46b6-b043-e3f44c476720",
+      "fecha_utc": "2026-11-08T02:28:13.088454+00:00",
+      "piloto_id": "p001",
+      "piloto_nombre": "Fernando Alonso",
+      "opinion_original": "lentorro",
+      "sentimiento": "negativo",
+      "razon": "El aficionado califica negativamente el rendimiento del piloto, sugiriendo lentitud con el término 'lentorro'.",
+      "modelo": "Google Gemini:gemini-2.5-flash",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "9d2c857e-cb81-4c24-9094-574bfb26fd39",
+      "fecha_utc": "2026-11-08T03:34:15.785721+00:00",
+      "piloto_id": "p018",
+      "piloto_nombre": "Valtteri Bottas",
+      "opinion_original": "un piloto increible, sus maniobras son audaces y tiene buen sentido del humor",
+      "sentimiento": "positivo",
+      "razon": "El aficionado elogia al piloto, destacando su habilidad en las maniobras y su personalidad.",
+      "modelo": "Google Gemini:gemini-2.5-flash",
+      "version_prompt": "1.0"
+    }
+  ]
+}
